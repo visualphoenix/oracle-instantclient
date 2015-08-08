@@ -1,0 +1,25 @@
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.iws
+
+# Mac
+.DS_Store
+
+# Maven
+log/
+target/
+
+# Shade
+dependency-reduced-pom.xml
+
+# Vim
+*~
+
+# Docker
+.dockerbuild
